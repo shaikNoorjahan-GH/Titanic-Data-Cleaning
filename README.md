@@ -19,7 +19,6 @@ This project demonstrates data cleaning and preprocessing using the Titanic data
 ## Files
 - Titanic_Data_Cleaning.ipynb
 - titanic_raw_dataset.csv
-- cleaned_titanic_dataset.csv
 
 ## Author
 Shaik Noorjahan
